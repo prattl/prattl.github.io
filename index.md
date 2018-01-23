@@ -21,7 +21,9 @@ automation. Responsible for building and evolving the core product and managing 
 
 The Dota 2 Team Finder aims to connect players with similar insterests together to form competitive teams.
 
-[View code on Github](https://github.com/prattl/teamfinder)
+<a href="https://github.com/prattl/teamfinder" target="_blank">
+    View code on Github
+</a>
 
 ## wepickheroes.com
 
@@ -30,7 +32,9 @@ The Dota 2 Team Finder aims to connect players with similar insterests together 
 We Pick Heroes is the first amateur Dota 2 competitive league of its kind. Responsible for building first iteration 
 of web platform.
 
-[View code on Github](https://github.com/wepickheroes/wepickheroes)
+<a href="https://github.com/wepickheroes/wepickheroes" target="_blank">
+    View code on Github
+</a>
 
 ## UAV Look
 
@@ -40,7 +44,9 @@ of web platform.
 
 > Web Developer
 
-[View code on Github](https://github.com/prattl/uavlook)
+<a href="https://github.com/prattl/uavlook" target="_blank">
+    View code on Github
+</a>
 
 # Tech
 
