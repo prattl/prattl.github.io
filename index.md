@@ -4,6 +4,10 @@
 
 [![hireanesquire.com]({{ site.url }}/assets/img/hae.png)](https://hireanesquire.com/)
 
+<a href="https://hireanesquire.com/" target="_blank">
+    ![hireanesquire.com]({{ site.url }}/assets/img/hae.png)
+</a>
+
 > CTO
 
 Legal SaaS - Hire an Esquire connects legal practices with their ideal attorneys using machine learning and 
