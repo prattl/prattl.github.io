@@ -2,8 +2,6 @@
 
 ## Hire an Esquire
 
-[![hireanesquire.com]({{ site.url }}/assets/img/hae.png)](https://hireanesquire.com/)
-
 <a href="https://hireanesquire.com/" target="_blank">
     ![hireanesquire.com]({{ site.url }}/assets/img/hae.png)
 </a>
@@ -14,6 +12,10 @@ Legal SaaS - Hire an Esquire connects legal practices with their ideal attorneys
 automation. Responsible for building and evolving the core product and managing a team of 2 developers.
 
 ## dotateamfinder.com
+
+<a href="https://dotateamfinder.com/" target="_blank">
+    ![dotateamfinder.com]({{ site.url }}/assets/img/dotateamfinder.png)
+</a>
 
 > Creator
 
@@ -31,6 +33,10 @@ of web platform.
 [View code on Github](https://github.com/wepickheroes/wepickheroes)
 
 ## UAV Look
+
+<a href="https://uavlook.com/" target="_blank">
+    ![uavlook.com]({{ site.url }}/assets/img/uav.png)
+</a>
 
 > Web Developer
 
