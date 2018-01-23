@@ -2,7 +2,7 @@
 
 ## Hire an Esquire
 
-![hireanesquire.com]({{ site.url }}/assets/img/hae.png)
+[![hireanesquire.com]({{ site.url }}/assets/img/hae.png)](https://hireanesquire.com/)
 
 > CTO
 
