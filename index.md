@@ -3,7 +3,7 @@
 ## Hire an Esquire
 
 <a href="https://hireanesquire.com/" target="_blank">
-    ![hireanesquire.com]({{ site.url }}/assets/img/hae.png)
+    ![hireanesquire.com](assets/img/hae.png)
 </a>
 
 > CTO
