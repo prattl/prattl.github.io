@@ -68,4 +68,4 @@ of web platform.
 
 # Contact
 
-[lenny@pratt.tech](mailto:lenny@pratt.tech)
+[lenny@prettdev.net](mailto:lenny@prattdev.net)
