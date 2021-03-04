@@ -14,7 +14,7 @@ automation. Responsible for building and evolving the core product and managing 
 ## dotateamfinder.com
 
 <a href="https://dotateamfinder.com/" target="_blank">
-    ![dotateamfinder.com]({{ site.url }}/assets/img/dotateamfinder.png)
+    ![dotateamfinder.com](assets/img/dotateamfinder.png)
 </a>
 
 > Creator
@@ -39,7 +39,7 @@ of web platform.
 ## UAV Look
 
 <a href="https://uavlook.com/" target="_blank">
-    ![uavlook.com]({{ site.url }}/assets/img/uav.png)
+    ![uavlook.com](assets/img/uav.png)
 </a>
 
 > Web Developer
