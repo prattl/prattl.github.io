@@ -1,5 +1,9 @@
 # Work
 
+## Panorama Education
+
+> Lead Software Engineer
+
 ## Hire an Esquire
 
 <a href="https://hireanesquire.com/" target="_blank">
@@ -8,8 +12,7 @@
 
 > CTO
 
-Legal SaaS - Hire an Esquire connects legal practices with their ideal attorneys using machine learning and 
-automation. Responsible for building and evolving the core product and managing a team of 2 developers.
+Legal SaaS - Hire an Esquire connects legal practices with their ideal attorneys.
 
 ## dotateamfinder.com
 
@@ -29,8 +32,7 @@ The Dota 2 Team Finder aims to connect players with similar insterests together 
 
 > Technical Advisor
 
-We Pick Heroes is the first amateur Dota 2 competitive league of its kind. Responsible for building first iteration 
-of web platform.
+We Pick Heroes is platform to host amateur Dota 2 competitive leagues.
 
 <a href="https://github.com/wepickheroes/wepickheroes" target="_blank">
     View code on Github
@@ -52,20 +54,15 @@ of web platform.
 
 ## Frontend
 
-* React
-  * Redux
-* ES6
-* Flow
-* GraphQL
-* Webpack
+* Javascript, Typescript
+* React, Vue
 
 ## Backend
 
+* Ruby / Rails
 * Python / Django
 * Docker
 
-# About
-
 # Contact
 
-[lenny@prettdev.net](mailto:lenny@prattdev.net)
+[lenny@prattdev.net](mailto:lenny@prattdev.net)
